@@ -1,0 +1,451 @@
+abreast
+
+acclaim 
+
+accord
+
+acquisitive
+
+adjudicate
+
+affectation
+{
+    affect pretend
+    affected
+    ["an affected smile"]
+    affective
+    ["an affective song"]
+    affecting
+    ["an affecting story"]
+    affection
+}
+
+affliction agony
+{
+    (flic/flig-): strike
+    {
+        conflict
+        inflict suffer
+        profligate
+    }
+}
+
+alienate 
+
+alloy mix !pure
+
+ambivalent ambiguous
+{
+    (val-): value
+}
+
+anachronism
+{
+    (chrono-): time
+    {
+        chronology
+        chronical
+    }
+}
+{
+    anachronistic
+}
+
+anaglogous comparable similar
+{
+    (log-): speak
+    eulogize
+    loquacious
+}
+
+antedate predate precede
+
+antipathy animus antagonism <bad blood>
+{
+    (path/pass-): passion
+    {
+        apathy
+        empathy
+    }
+}
+
+antiquated outmoded archaic old old-fationed
+{
+    (anti-/ante-): before
+}
+
+antithetical opposing against
+{
+    (thet/thes): put
+    {
+        antithesis
+        synthesis
+    }
+}
+
+apprehensive apprehensible arcane; scared
+{
+    (prehens/prehend-): seize
+}
+
+arbitrary subjective
+
+arcane enigmatic esoteric
+
+attest <prove sth. to be true> verify sustantiate !refute
+{
+    (test-): witness
+    {
+        testify
+        testimony
+        detest
+        atest
+    }
+}
+
+august imposing solemn
+[
+    "her august pedigree"
+]
+
+auspicious favorable promising propitious
+{
+    (spic-): look
+    {
+        conspicuous
+        perspicacious
+    }
+    (au/eu-): good
+}
+
+austere spartan plain
+[
+    "austere style"
+]
+
+backfire
+[
+    "their plans backfired"
+]
+
+baffle confound perplex confuse
+
+beholden indebted 
+
+bureaucratic ineffective 
+[
+    "bureaucratic procedures"
+]
+
+belligerent aggressive pugnacious truculent
+{
+    (belli-): war
+}
+
+bluff <to pretend sth.>
+
+bogus fake
+[
+    "a bogus claim"
+]
+
+calamity disaster catastrophe
+
+calculated deliberate measured
+
+canny clever
+
+uncanny strange
+
+canonize deify YYDS
+
+carefree blithe !careworn
+[
+    "a spate of"
+    "a scads of"
+    "a slew of"
+    "a deluge of"
+]
+
+charisma
+{
+    (char-): charm
+}
+
+cherished dear
+
+chivalrous
+[
+    "chivalrous to women"
+]
+
+clan cliquish group
+
+cohesive
+{
+    (her/hes-): stick
+    coherent
+    adhere
+}
+
+compatible agreeable
+
+compelling cogent persuasive telling
+
+complacent placid <drink Champagne harlway>
+
+complementary supplementary
+
+complicate complexify
+{
+    (plic-): fold
+}
+
+comprehend understand; include
+
+concrete actual <de facto>
+
+discrete separate
+
+conlate fuse amalgamate
+{
+    (flate-): blow
+    inflate
+    deflate soothe
+}
+
+conjure
+{
+    (jure-): swear
+    jurist
+    abjure
+}
+[
+    "conjure up"
+]
+
+consign
+{
+    (sign-): sign
+    assign
+}
+
+contemplate meditate
+{
+    (templ-): temple
+}
+[
+    "contemplate your future"
+]
+
+contempt downplay flout
+
+contend
+{
+    (tend-): stretch
+    extend
+    tendentious
+}
+
+contradict
+{
+    (dic/dict-): say
+    dictate
+}
+[
+"your actions ~ your words"
+]
+
+contrived affected mawkish !natural !spontaneous
+{
+    (triv-): sing
+    trope claim
+}
+{
+    contrive
+    contrivance
+}
+
+counterpart
+[
+    "conterpart Vice Premier Liu He"
+]
+
+counterproductive 
+
+courteous
+
+credit trust; praise
+{
+    (cred-): trust
+}
+[
+"to one's credit"
+]
+
+dampen damper
+[
+"the heat dampened our spirits"
+]
+
+decry condemn oppose
+[
+"people decried the campaign as a waste of money"
+]
+
+deflect divert
+{
+    (flect-): bend
+    reflect
+    flexible
+}
+[
+"all attempts to deflect attention from his private life have failed"
+]
+
+delegate
+{
+    (leg-): law
+    relegate
+}
+
+delineate portray
+{
+    (line-): line
+}
+
+deplorable reprehensible
+{
+    (plor-): cry
+    explore
+}
+[
+    "a deplorable incident"
+]
+
+dichotomy contradictory
+{
+    (dicho-): cut
+    atom
+    epitome
+}
+{
+    (dicho-): contra
+}
+
+dishearten discourage demoralize
+
+distinctive characteristic
+[
+"clothes with a dinstinctive style"
+]
+
+doctrinaire
+{
+    (doct-): teach
+}
+
+drab dry dreary weary tedious
+
+dramatic
+[
+"dramatic increase"
+]
+
+duplicate replicate copy
+{
+    (dup-): double
+    duplicitous
+}
+{
+    (plic-): fold
+    explict
+    implict
+}
+
+eclectic mixed heterogeneous miscellaneous
+{
+    (lec-): choose
+    select
+    elect
+}
+
+elude evade shun avoid shirk; <hard to understand> elusive
+{
+    (lud-): play
+    ludicrous
+}
+
+enamored captivated fascinated obsessed
+{
+    (amore-/am-): love
+}
+
+endeavor effort
+
+exorcise
+{
+    (or-): oath
+    oracle
+}
+[
+"exorcise the unhappy memories from her mid"
+]
+
+explicate explain elucidate
+{
+    (plic-): fold
+}
+
+exterminate erase <wipe out> extinguish
+{
+    (term-): end
+    terminal
+    terminate
+}
+
+extrapolate deduce
+{
+    (pol-): push
+}
+
+fabulous terrific
+
+fad fashion
+[
+"the latest fad"
+]
+
+fanciful bizarre
+
+ferocious furious
+{
+    (fero-): fierce
+}
+
+fitful episodic intermittent
+
+fleeting transient transitory ephemeral evanescent
+
+forebode augur promise
+
+foreground stress emphasize !background
+
+forsake forego abandon
+
+germinate sprout spring
+
+halfhearted cursory perfunctory
+
+hierarchical stratified
+{
+    (archi-): rule
+    monarchy
+    anarchy
+}
+
+humdrum monotonous dull
+
+idosyncrasy eccentricity
+
+
