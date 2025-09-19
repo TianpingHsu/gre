@@ -62,14 +62,22 @@ ple- = fill deplete
 implement a policy/law
 
 impostor fraud quack charlatan
-pos- = put
+{
+    (pos-): put
+}
 
 improvise unprepared ad-lib
-vis = look
+{
+    (vis-): look
+}
 
 imprudent unwise 
-prudent
-an imprudent investment
+{
+    prudent
+}
+[
+    "an imprudent investment"
+]
 
 interminable
 {
