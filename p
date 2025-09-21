@@ -14,22 +14,6 @@ palliate assuage allay mitigate
 
 paltry insignificant inconsiderable trivial
 
-painstaking meticulous scrupulous
-
-palatable
-{
-    palate
-}
-
-palpable discernable noticeable detectable
-
-palliate assuage allay mitigate
-{
-    (pall): cover
-}
-
-paltry insignificant inconsiderable trivial
-
 panache flamboyance
 
 pandemic
@@ -113,7 +97,7 @@ peer
     tier level
 }
 
-pojorative belittling disdainful
+pejorative belittling disdainful
 
 pellucid clear lucid
 {
@@ -127,7 +111,7 @@ plaintive sad
 
 penchant inclination
  
-pensive reflective ruminative sad
+pensive reflective ruminative; sad
 {
     (pend-): hang
 }
@@ -200,7 +184,7 @@ persistence
     (sist): stand
 }
 
-perspicatious
+perspicacious
 {
     (spic/spec-): look
 }
@@ -263,7 +247,7 @@ platitude
     (pla-): flat
 }
 
-plausible creadible
+plausible credible
 [
 "plausible explanation"
 "plausible liar"
@@ -297,7 +281,6 @@ plummet plumb slump !skyrocket !spike !surge
 "price/rate/amount plummets"
 ]
 
-plunge
 [
 "plunge into water/discussion/work/war/chaos"
 ]
@@ -308,3 +291,263 @@ pompous rhetorical flowery; haughty !modest
 [
 "pompus language/building"
 ]
+
+ponderous labored dreary
+{
+    (pond-): heavy
+}
+
+porous passable 'pervious
+{
+    (por):  pore
+}
+
+posture pretend affect
+{
+    (pos-): put
+    postulate
+    position
+    poseur
+}
+
+practitioner professional
+
+premium
+[
+    "at a premium"
+]
+
+preach didactic
+
+precarious uncertain; dangerous
+
+precedent
+{
+    (ced-): go
+    accessible
+}
+
+ploy strategy
+[
+    "a clever marketing ploy"
+]
+
+pre'cipitate
+{
+    (cip/cap-): head
+    precipitious
+}
+[
+    "make precipitate decisions"
+    "precipitate a disaster"
+]
+
+preclude prevent avert
+{
+    (clud-): close
+}
+
+precursor forerunner pioneer predecessor !successor
+{
+    (cur-): run
+    current
+    currency
+    excursion
+}
+[
+    "a precursor of modern jazz"
+]
+
+predilection preference partial
+{
+    (lect-): choose
+}
+
+preempt
+{
+    (empt-): take
+    example
+    exempt
+}
+
+pregnant <full of significance>
+
+premeditate
+{
+    (med-): consider
+}
+
+prepossessing enchanting captivating
+[
+    "a prepossessing smile"
+]
+
+presage prediction
+
+prescience
+{
+    (sci-): know
+    conscientious
+    omniscient
+}
+
+prescription
+{
+    (scrib-): write
+    scribble
+    transcript
+    nondescript
+}
+
+primitive
+{
+    (prim-): origin
+}
+
+prestige reputation cachet
+
+prognosis forecast prediction
+{
+    (gnos-): know
+}
+
+prevalent common pervasive
+{
+    (val-): strong
+}
+[
+    "the prevalent belief in astrology"
+]
+
+prevaricate lie fabricate
+
+pristine original unaltered
+
+privation hardship 
+
+probity integrity
+{
+    (prov/prob-): prove 
+    prove
+    probable
+}
+
+proclivity tendency preference
+
+prod goad nudge spur
+
+prodigal 'profligate extravagant spendthrift
+
+proficient skilled virtu'oso
+
+pushover <a piece of cake>
+
+profusion abundance wealth
+{
+    (fus-): pour
+    confuse
+    refuse
+}
+[
+    "the profusion of details"
+]
+
+prohibitive expensive pricey
+
+proliferate propagate 
+[
+    "the proliferation of disease"
+]
+
+prolix verbose garrulous rambling
+{
+    (lix): liquid
+}
+
+promulgate
+[
+    "promulgate a law"
+]
+
+propagate broadcast disseminate publicize
+
+pro'pitious auspicious favorable
+
+propriety felicity
+
+prosaic mundane commonplace routine insipid
+{
+    prose
+}
+[
+    "a prosaic writing style"
+]
+
+proscribe ban prohibit forbid
+
+prosperous thriving affluent
+
+protean all-round versatile
+
+provident forseeing visonary
+{
+    (vid-): see
+    vision
+}
+
+providential lucky fluky
+
+provincial insular pa'rochial narrow-minded
+
+provoke evoke
+{
+    (vok/voc): say
+}
+[
+    "provoke an argument"
+]
+
+prude moralist
+{
+    prudish
+}
+
+prudent cautious discreet judicious
+
+pseudonym
+{
+    (pseudo-): fake false
+}
+
+puerile childish immature
+{
+    (pu-): little
+    pupil
+}
+
+premeditate
+{
+    (mea-): pass
+    means
+}
+
+punctilious
+{
+    (punct-): pierce
+    puncture
+    acupuncture
+    compunction
+    pungent
+}
+[
+    "be punctilious about grammar"
+]
+
+purport claim assert
+{
+    (port): carry
+    import
+    export
+}
+
+purvey supply <provide + convey>
